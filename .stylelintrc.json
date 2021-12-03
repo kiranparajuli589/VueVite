@@ -1,0 +1,9 @@
+{
+	"extends": [
+		"stylelint-config-recommended-vue/scss"
+	],
+	"rules": {
+		"color-no-invalid-hex": true
+	},
+	"ignoreFiles": ["**/*.(md|js)"]
+}
